@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Eu me chamo Luiz Eduardo, muito prazer!</h2>
+<h2 align="left">Olá, Eu me chamo Luiz Eduardo, muito prazer!</h2>
 
 ###
 
@@ -10,13 +10,17 @@
 
 ###
 
+<img align="center" height="147" src="https://avatars.githubusercontent.com/u/189006277?v=4"  />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="luiz2812.1326614@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
