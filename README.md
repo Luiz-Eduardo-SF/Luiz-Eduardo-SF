@@ -10,17 +10,13 @@
 
 ###
 
-<img align="right" height="147" src="https://avatars.githubusercontent.com/u/189006277?v=4"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="luiz2812.1326614@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
