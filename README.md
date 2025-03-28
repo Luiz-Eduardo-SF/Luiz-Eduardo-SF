@@ -1,4 +1,4 @@
-<h2 align="center">Olá, Eu me chamo Luiz Eduardo, muito prazer!</h2>
+<h1 align="center">Olá, Eu me chamo Luiz Eduardo, muito prazer!</h2>
 
 ###
 
