@@ -3,14 +3,9 @@
 
 <h1 align="center"> Meus Contatos </h1>
 
-<a href="https://www.instagram.com/luiz.eduardosf" type="_blank">Instagram</a>
-<a href="https://www.linkedin.com/in/luiz-eduardo-sf/" type="_blank">Instagram</a>
-<a href="https://luiz-eduardo-sf.netlify.app/" type="_blank">Instagram</a>
-
-
-- [Instagram](https://www.instagram.com/luiz.eduardosf)
-- [LinkedIn](https://www.linkedin.com/in/luiz-eduardo-sf/)
-- [Meu Site](https://luiz-eduardo-sf.netlify.app/)
+<a href="https://www.instagram.com/luiz.eduardosf" target="_blank">Instagram</a>
+<a href="https://www.linkedin.com/in/luiz-eduardo-sf/" target="_blank">LinkedIn</a>
+<a href="https://luiz-eduardo-sf.netlify.app/" target="_blank">Meu site</a>
 
 ## Meu GitHub
 <div align="center">
