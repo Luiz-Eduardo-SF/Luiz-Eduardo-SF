@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">Atualmente eu estou em busca da minha primeira experiência profissional na área de tecnologia, pela qual sou apaixonado. Criei este perfil para compartilhar meus projetos e demonstrar meu conhecimento.<br>
-Atualmente, curso o 2º semestre de Análise e Desenvolvimento de Sistemas.</p> 
+Atualmente, curso o 2º semestre de Análise e Desenvolvimento de Sistemas, e você pode acompanhar meu aprendizado na faculdade através do meu repositório “Caderno”, onde atualizo diariamente colocando minhas anotações.</p> 
 
 <br>
 
