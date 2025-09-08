@@ -1,8 +1,8 @@
 <h1 align="center">Olá, Eu me chamo Luiz Eduardo, muito prazer!</h1>
 <br>
 
-<p align="center">Atualmente eu estou em busca da minha primeira experiência profissional na área de tecnologia, pela qual sou apaixonado. Criei este perfil para compartilhar meus projetos e demonstrar meu conhecimento.<br>
-Atualmente, curso o 2º semestre de Análise e Desenvolvimento de Sistemas, e você pode acompanhar meu aprendizado na faculdade através do meu repositório “Caderno”, onde atualizo diariamente colocando minhas anotações.</p> 
+<p align="center">Atualmente, estou em busca da minha primeira experiência profissional na área de tecnologia, pela qual sou apaixonado. Criei este perfil para compartilhar meus projetos e demonstrar meus conhecimentos.<br><br>
+Atualmente, curso o 2º semestre de Análise e Desenvolvimento de Sistemas, e você pode acompanhar meu aprendizado na faculdade por meio do meu repositório 'Caderno', que atualizo diariamente com minhas anotações.<br> (Devido a alguns erros, os últimos commits feitos não aparecem nas minhas contribuições.)</p> 
 
 <br>
 
