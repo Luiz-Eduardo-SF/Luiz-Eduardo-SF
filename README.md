@@ -13,7 +13,7 @@ Atualmente, curso o 2º semestre de Análise e Desenvolvimento de Sistemas, e vo
   
   <a href="https://www.instagram.com/luiz.eduardosf" target="_blank">[ Instagram ]</a>
   <a href="https://www.linkedin.com/in/luiz-eduardo-sf/" target="_blank">[ LinkedIn ]</a>
-  <a href="https://luiz-eduardo-sf.netlify.app/" target="_blank">[ Meu site ]</a>
+  <a href="https://luiz-eduardo-sf.netlify.app/" target="_blank">[ Meu site (em atualização) ]</a>
 
 </div>
 
