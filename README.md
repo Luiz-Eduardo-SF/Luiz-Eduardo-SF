@@ -16,25 +16,3 @@ Atualmente, curso o 3º semestre de Análise e Desenvolvimento de Sistemas, part
   <a href="https://luiz-edu-sf.netlify.app/" target="_blank">[ Meu site (em atualização) ]</a>
 
 </div>
-
-<br>
-<br>
-
-<h1 align="center">Meu GitHub</h1>
-<br>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-SF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiz-Eduardo-SF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-</div>
-
-
